@@ -45,6 +45,10 @@ footer {
     margin-left: 40px;
 }
 
+#projectTwo {
+    height: 204.28px;
+}
+
 @media screen and (max-width: 519px) {
     .card {
         margin-top: 20px;
